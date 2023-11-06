@@ -17,7 +17,7 @@ This repository contains a simple HTML and CSS project that uses flexbox to disp
 
 ## Preview
 
-You can see a live preview of this project [here](#https://gallery-site-itssishanns-projects.vercel.app).
+You can see a live preview of this project [here](https://gallery-site-itssishanns-projects.vercel.app).
 
 Feel free to use and modify this project for your own purposes.
 
